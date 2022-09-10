@@ -16,13 +16,13 @@ Quack Report is an android app that helps to see recent or historic earthquakes 
 - Light Theme
 
 
-https://user-images.githubusercontent.com/82031895/189498248-672e8060-0bb6-4478-a678-4a222ecbcee4.mp4
+https://user-images.githubusercontent.com/82031895/189498444-89b799b0-3322-406a-ac83-98577ed99df6.mp4
 
 
 - Dark Theme
 
 
-https://user-images.githubusercontent.com/82031895/189498253-172638f7-6628-404e-900c-6f7da7192a0e.mp4
+https://user-images.githubusercontent.com/82031895/189498453-2f0fc6bf-8fbf-41f4-ad55-83d033abc36f.mp4
 
 
 ## License & Copyrights
