@@ -1,0 +1,1535 @@
+[
+    {
+        "country": "Afghanistan",
+        "latitude_min": 29.3772,
+        "latitude_max": 38.4910682,
+        "longitude_min": 60.5176034,
+        "longitude_max": 74.889862
+    },
+    {
+        "country": "Albania",
+        "latitude_min": 39.6448625,
+        "latitude_max": 42.6610848,
+        "longitude_min": 19.1246095,
+        "longitude_max": 21.0574335
+    },
+    {
+        "country": "Algeria",
+        "latitude_min": 18.968147,
+        "latitude_max": 37.2962055,
+        "longitude_min": -8.668908,
+        "longitude_max": 11.997337
+    },
+    {
+        "country": "American Samoa",
+        "latitude_min": -14.7608358,
+        "latitude_max": -10.8449746,
+        "longitude_min": -171.2951296,
+        "longitude_max": -167.9322899
+    },
+    {
+        "country": "Andorra",
+        "latitude_min": 42.4288238,
+        "latitude_max": 42.6559357,
+        "longitude_min": 1.4135781,
+        "longitude_max": 1.7863837
+    },
+    {
+        "country": "Angola",
+        "latitude_min": -18.038945,
+        "latitude_max": -4.3880634,
+        "longitude_min": 11.4609793,
+        "longitude_max": 24.0878856
+    },
+    {
+        "country": "Anguilla",
+        "latitude_min": 18.0615454,
+        "latitude_max": 18.7951194,
+        "longitude_min": -63.6391992,
+        "longitude_max": -62.7125449
+    },
+    {
+        "country": "Antarctica",
+        "latitude_min": -85.0511287,
+        "latitude_max": -60.0,
+        "longitude_min": -180.0,
+        "longitude_max": 180.0
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "latitude_min": 16.7573901,
+        "latitude_max": 17.929,
+        "longitude_min": -62.5536517,
+        "longitude_max": -61.447857
+    },
+    {
+        "country": "Argentina",
+        "latitude_min": -55.1850761,
+        "latitude_max": -21.781168,
+        "longitude_min": -73.5600329,
+        "longitude_max": -53.6374515
+    },
+    {
+        "country": "Armenia",
+        "latitude_min": 38.8404775,
+        "latitude_max": 41.300712,
+        "longitude_min": 43.4471395,
+        "longitude_max": 46.6333087
+    },
+    {
+        "country": "Aruba",
+        "latitude_min": 12.1702998,
+        "latitude_max": 12.8102998,
+        "longitude_min": -70.2809842,
+        "longitude_max": -69.6409842
+    },
+    {
+        "country": "Australia",
+        "latitude_min": -55.3228175,
+        "latitude_max": -9.0882278,
+        "longitude_min": 72.2460938,
+        "longitude_max": 168.2249543
+    },
+    {
+        "country": "Austria",
+        "latitude_min": 46.3722761,
+        "latitude_max": 49.0205305,
+        "longitude_min": 9.5307487,
+        "longitude_max": 17.160776
+    },
+    {
+        "country": "Azerbaijan",
+        "latitude_min": 38.3929551,
+        "latitude_max": 41.9502947,
+        "longitude_min": 44.7633701,
+        "longitude_max": 51.0090302
+    },
+    {
+        "country": "Bahamas",
+        "latitude_min": 20.7059846,
+        "latitude_max": 27.4734551,
+        "longitude_min": -80.7001941,
+        "longitude_max": -72.4477521
+    },
+    {
+        "country": "Bahrain",
+        "latitude_min": 25.535,
+        "latitude_max": 26.6872444,
+        "longitude_min": 50.2697989,
+        "longitude_max": 50.9233693
+    },
+    {
+        "country": "Bangladesh",
+        "latitude_min": 20.3756582,
+        "latitude_max": 26.6382534,
+        "longitude_min": 88.0075306,
+        "longitude_max": 92.6804979
+    },
+    {
+        "country": "Barbados",
+        "latitude_min": 12.845,
+        "latitude_max": 13.535,
+        "longitude_min": -59.8562115,
+        "longitude_max": -59.2147175
+    },
+    {
+        "country": "Belarus",
+        "latitude_min": 51.2575982,
+        "latitude_max": 56.17218,
+        "longitude_min": 23.1783344,
+        "longitude_max": 32.7627809
+    },
+    {
+        "country": "Belgium",
+        "latitude_min": 49.4969821,
+        "latitude_max": 51.5516667,
+        "longitude_min": 2.3889137,
+        "longitude_max": 6.408097
+    },
+    {
+        "country": "Belize",
+        "latitude_min": 15.8857286,
+        "latitude_max": 18.496001,
+        "longitude_min": -89.2262083,
+        "longitude_max": -87.3098494
+    },
+    {
+        "country": "Benin",
+        "latitude_min": 6.0398696,
+        "latitude_max": 12.4092447,
+        "longitude_min": 0.776667,
+        "longitude_max": 3.843343
+    },
+    {
+        "country": "Bermuda",
+        "latitude_min": 32.0469651,
+        "latitude_max": 32.5913693,
+        "longitude_min": -65.1232222,
+        "longitude_max": -64.4109842
+    },
+    {
+        "country": "Bhutan",
+        "latitude_min": 26.702016,
+        "latitude_max": 28.246987,
+        "longitude_min": 88.7464724,
+        "longitude_max": 92.1252321
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "latitude_min": 42.5553114,
+        "latitude_max": 45.2764135,
+        "longitude_min": 15.7287433,
+        "longitude_max": 19.6237311
+    },
+    {
+        "country": "Botswana",
+        "latitude_min": -26.9059669,
+        "latitude_max": -17.778137,
+        "longitude_min": 19.9986474,
+        "longitude_max": 29.375304
+    },
+    {
+        "country": "Bouvet Island",
+        "latitude_min": -54.654,
+        "latitude_max": -54.187,
+        "longitude_min": 2.9345531,
+        "longitude_max": 3.7791099
+    },
+    {
+        "country": "Brazil",
+        "latitude_min": -33.8689056,
+        "latitude_max": 5.2842873,
+        "longitude_min": -73.9830625,
+        "longitude_max": -28.6341164
+    },
+    {
+        "country": "British Indian Ocean Territory",
+        "latitude_min": -7.6454079,
+        "latitude_max": -5.037066,
+        "longitude_min": 71.036504,
+        "longitude_max": 72.7020157
+    },
+    {
+        "country": "Bulgaria",
+        "latitude_min": 41.2353929,
+        "latitude_max": 44.2167064,
+        "longitude_min": 22.3571459,
+        "longitude_max": 28.8875409
+    },
+    {
+        "country": "Burkina Faso",
+        "latitude_min": 9.4104718,
+        "latitude_max": 15.084,
+        "longitude_min": -5.5132416,
+        "longitude_max": 2.4089717
+    },
+    {
+        "country": "Burundi",
+        "latitude_min": -4.4693155,
+        "latitude_max": -2.3096796,
+        "longitude_min": 29.0007401,
+        "longitude_max": 30.8498462
+    },
+    {
+        "country": "Cambodia",
+        "latitude_min": 9.4752639,
+        "latitude_max": 14.6904224,
+        "longitude_min": 102.3338282,
+        "longitude_max": 107.6276788
+    },
+    {
+        "country": "Cameroon",
+        "latitude_min": 1.6546659,
+        "latitude_max": 13.083333,
+        "longitude_min": 8.3822176,
+        "longitude_max": 16.1921476
+    },
+    {
+        "country": "Canada",
+        "latitude_min": 41.6765556,
+        "latitude_max": 83.3362128,
+        "longitude_min": -141.00275,
+        "longitude_max": -52.3231981
+    },
+    {
+        "country": "Cape Verde",
+        "latitude_min": 14.8031546,
+        "latitude_max": 17.2053108,
+        "longitude_min": -25.3609478,
+        "longitude_max": -22.6673416
+    },
+    {
+        "country": "Cayman Islands",
+        "latitude_min": 19.0620619,
+        "latitude_max": 19.9573759,
+        "longitude_min": -81.6313748,
+        "longitude_max": -79.5110954
+    },
+    {
+        "country": "Central African Republic",
+        "latitude_min": 2.2156553,
+        "latitude_max": 11.001389,
+        "longitude_min": 14.4155426,
+        "longitude_max": 27.4540764
+    },
+    {
+        "country": "Chad",
+        "latitude_min": 7.44107,
+        "latitude_max": 23.4975,
+        "longitude_min": 13.47348,
+        "longitude_max": 24.0
+    },
+    {
+        "country": "Chile",
+        "latitude_min": -56.725,
+        "latitude_max": -17.4983998,
+        "longitude_min": -109.6795789,
+        "longitude_max": -66.0753474
+    },
+    {
+        "country": "China",
+        "latitude_min": 8.8383436,
+        "latitude_max": 53.5608154,
+        "longitude_min": 73.4997347,
+        "longitude_max": 134.7754563
+    },
+    {
+        "country": "Christmas Island",
+        "latitude_min": -10.5698515,
+        "latitude_max": -10.4123553,
+        "longitude_min": 105.5336422,
+        "longitude_max": 105.7130159
+    },
+    {
+        "country": "Cocos (Keeling) Islands",
+        "latitude_min": -12.4055983,
+        "latitude_max": -11.6213132,
+        "longitude_min": 96.612524,
+        "longitude_max": 97.1357343
+    },
+    {
+        "country": "Colombia",
+        "latitude_min": -4.2316872,
+        "latitude_max": 16.0571269,
+        "longitude_min": -82.1243666,
+        "longitude_max": -66.8511907
+    },
+    {
+        "country": "Comoros",
+        "latitude_min": -12.621,
+        "latitude_max": -11.165,
+        "longitude_min": 43.025305,
+        "longitude_max": 44.7451922
+    },
+    {
+        "country": "Congo",
+        "latitude_min": -5.149089,
+        "latitude_max": 3.713056,
+        "longitude_min": 11.0048205,
+        "longitude_max": 18.643611
+    },
+    {
+        "country": "Cook Islands",
+        "latitude_min": -22.15807,
+        "latitude_max": -8.7168792,
+        "longitude_min": -166.0856468,
+        "longitude_max": -157.1089329
+    },
+    {
+        "country": "Costa Rica",
+        "latitude_min": 5.3329698,
+        "latitude_max": 11.2195684,
+        "longitude_min": -87.2722647,
+        "longitude_max": -82.5060208
+    },
+    {
+        "country": "Croatia",
+        "latitude_min": 42.1765993,
+        "latitude_max": 46.555029,
+        "longitude_min": 13.2104814,
+        "longitude_max": 19.4470842
+    },
+    {
+        "country": "Cuba",
+        "latitude_min": 19.6275294,
+        "latitude_max": 23.4816972,
+        "longitude_min": -85.1679702,
+        "longitude_max": -73.9190004
+    },
+    {
+        "country": "Cyprus",
+        "latitude_min": 34.4383706,
+        "latitude_max": 35.913252,
+        "longitude_min": 32.0227581,
+        "longitude_max": 34.8553182
+    },
+    {
+        "country": "Czech Republic",
+        "latitude_min": 48.5518083,
+        "latitude_max": 51.0557036,
+        "longitude_min": 12.0905901,
+        "longitude_max": 18.859216
+    },
+    {
+        "country": "Denmark",
+        "latitude_min": 54.4516667,
+        "latitude_max": 57.9524297,
+        "longitude_min": 7.7153255,
+        "longitude_max": 15.5530641
+    },
+    {
+        "country": "Djibouti",
+        "latitude_min": 10.9149547,
+        "latitude_max": 12.7923081,
+        "longitude_min": 41.7713139,
+        "longitude_max": 43.6579046
+    },
+    {
+        "country": "Dominica",
+        "latitude_min": 15.0074207,
+        "latitude_max": 15.7872222,
+        "longitude_min": -61.6869184,
+        "longitude_max": -61.0329895
+    },
+    {
+        "country": "Dominican Republic",
+        "latitude_min": 17.2701708,
+        "latitude_max": 21.303433,
+        "longitude_min": -72.0574706,
+        "longitude_max": -68.1101463
+    },
+    {
+        "country": "Ecuador",
+        "latitude_min": -5.0159314,
+        "latitude_max": 1.8835964,
+        "longitude_min": -92.2072392,
+        "longitude_max": -75.192504
+    },
+    {
+        "country": "Egypt",
+        "latitude_min": 22.0,
+        "latitude_max": 31.8330854,
+        "longitude_min": 24.6499112,
+        "longitude_max": 37.1153517
+    },
+    {
+        "country": "El Salvador",
+        "latitude_min": 12.976046,
+        "latitude_max": 14.4510488,
+        "longitude_min": -90.1790975,
+        "longitude_max": -87.6351394
+    },
+    {
+        "country": "Equatorial Guinea",
+        "latitude_min": -1.6732196,
+        "latitude_max": 3.989,
+        "longitude_min": 5.4172943,
+        "longitude_max": 11.3598628
+    },
+    {
+        "country": "Eritrea",
+        "latitude_min": 12.3548219,
+        "latitude_max": 18.0709917,
+        "longitude_min": 36.4333653,
+        "longitude_max": 43.3001714
+    },
+    {
+        "country": "Estonia",
+        "latitude_min": 57.5092997,
+        "latitude_max": 59.9383754,
+        "longitude_min": 21.3826069,
+        "longitude_max": 28.2100175
+    },
+    {
+        "country": "Ethiopia",
+        "latitude_min": 3.397448,
+        "latitude_max": 14.8940537,
+        "longitude_min": 32.9975838,
+        "longitude_max": 47.9823797
+    },
+    {
+        "country": "Faroe Islands",
+        "latitude_min": 61.3915553,
+        "latitude_max": 62.3942991,
+        "longitude_min": -7.6882939,
+        "longitude_max": -6.2565525
+    },
+    {
+        "country": "Finland",
+        "latitude_min": 59.4541578,
+        "latitude_max": 70.0922939,
+        "longitude_min": 19.0832098,
+        "longitude_max": 31.5867071
+    },
+    {
+        "country": "France",
+        "latitude_min": 41.2632185,
+        "latitude_max": 51.268318,
+        "longitude_min": -5.4534286,
+        "longitude_max": 9.8678344
+    },
+    {
+        "country": "French Guiana",
+        "latitude_min": 2.112222,
+        "latitude_max": 5.7507111,
+        "longitude_min": -54.60278,
+        "longitude_max": -51.6346139
+    },
+    {
+        "country": "French Polynesia",
+        "latitude_min": -28.0990232,
+        "latitude_max": -7.6592173,
+        "longitude_min": -154.9360599,
+        "longitude_max": -134.244799
+    },
+    {
+        "country": "French Southern Territories",
+        "latitude_min": -50.2187169,
+        "latitude_max": -11.3139928,
+        "longitude_min": 39.4138676,
+        "longitude_max": 77.8494974
+    },
+    {
+        "country": "Gabon",
+        "latitude_min": -4.1012261,
+        "latitude_max": 2.3182171,
+        "longitude_min": 8.5002246,
+        "longitude_max": 14.539444
+    },
+    {
+        "country": "Gambia",
+        "latitude_min": 13.061,
+        "latitude_max": 13.8253137,
+        "longitude_min": -17.0288254,
+        "longitude_max": -13.797778
+    },
+    {
+        "country": "Georgia",
+        "latitude_min": 41.0552922,
+        "latitude_max": 43.5864294,
+        "longitude_min": 39.8844803,
+        "longitude_max": 46.7365373
+    },
+    {
+        "country": "Germany",
+        "latitude_min": 47.2701114,
+        "latitude_max": 55.099161,
+        "longitude_min": 5.8663153,
+        "longitude_max": 15.0419319
+    },
+    {
+        "country": "Ghana",
+        "latitude_min": 4.5392525,
+        "latitude_max": 11.1748562,
+        "longitude_min": -3.260786,
+        "longitude_max": 1.2732942
+    },
+    {
+        "country": "Gibraltar",
+        "latitude_min": 36.100807,
+        "latitude_max": 36.180807,
+        "longitude_min": -5.3941295,
+        "longitude_max": -5.3141295
+    },
+    {
+        "country": "Greece",
+        "latitude_min": 34.7006096,
+        "latitude_max": 41.7488862,
+        "longitude_min": 19.2477876,
+        "longitude_max": 29.7296986
+    },
+    {
+        "country": "Greenland",
+        "latitude_min": 59.515387,
+        "latitude_max": 83.875172,
+        "longitude_min": -74.1250416,
+        "longitude_max": -10.0288759
+    },
+    {
+        "country": "Grenada",
+        "latitude_min": 11.786,
+        "latitude_max": 12.5966532,
+        "longitude_min": -62.0065868,
+        "longitude_max": -61.1732143
+    },
+    {
+        "country": "Guadeloupe",
+        "latitude_min": 15.8320085,
+        "latitude_max": 16.5144664,
+        "longitude_min": -61.809764,
+        "longitude_max": -61.0003663
+    },
+    {
+        "country": "Guam",
+        "latitude_min": 13.182335,
+        "latitude_max": 13.706179,
+        "longitude_min": 144.563426,
+        "longitude_max": 145.009167
+    },
+    {
+        "country": "Guatemala",
+        "latitude_min": 13.6345804,
+        "latitude_max": 17.8165947,
+        "longitude_min": -92.3105242,
+        "longitude_max": -88.1755849
+    },
+    {
+        "country": "Guinea",
+        "latitude_min": 7.1906045,
+        "latitude_max": 12.67563,
+        "longitude_min": -15.5680508,
+        "longitude_max": -7.6381993
+    },
+    {
+        "country": "Guinea-Bissau",
+        "latitude_min": 10.6514215,
+        "latitude_max": 12.6862384,
+        "longitude_min": -16.894523,
+        "longitude_max": -13.6348777
+    },
+    {
+        "country": "Guyana",
+        "latitude_min": 1.1710017,
+        "latitude_max": 8.6038842,
+        "longitude_min": -61.414905,
+        "longitude_max": -56.4689543
+    },
+    {
+        "country": "Haiti",
+        "latitude_min": 17.9099291,
+        "latitude_max": 20.2181368,
+        "longitude_min": -75.2384618,
+        "longitude_max": -71.6217461
+    },
+    {
+        "country": "Heard Island and McDonald Islands",
+        "latitude_min": -53.394741,
+        "latitude_max": -52.7030677,
+        "longitude_min": 72.2460938,
+        "longitude_max": 74.1988754
+    },
+    {
+        "country": "Holy See (Vatican City State)",
+        "latitude_min": 41.9002044,
+        "latitude_max": 41.9073912,
+        "longitude_min": 12.4457442,
+        "longitude_max": 12.4583653
+    },
+    {
+        "country": "Honduras",
+        "latitude_min": 12.9808485,
+        "latitude_max": 17.619526,
+        "longitude_min": -89.3568207,
+        "longitude_max": -82.1729621
+    },
+    {
+        "country": "Hong Kong",
+        "latitude_min": 22.1193278,
+        "latitude_max": 22.4393278,
+        "longitude_min": 114.0028131,
+        "longitude_max": 114.3228131
+    },
+    {
+        "country": "Hungary",
+        "latitude_min": 45.737128,
+        "latitude_max": 48.585257,
+        "longitude_min": 16.1138867,
+        "longitude_max": 22.8977094
+    },
+    {
+        "country": "Iceland",
+        "latitude_min": 63.0859177,
+        "latitude_max": 67.353,
+        "longitude_min": -25.0135069,
+        "longitude_max": -12.8046162
+    },
+    {
+        "country": "India",
+        "latitude_min": 6.5546079,
+        "latitude_max": 35.6745457,
+        "longitude_min": 68.1113787,
+        "longitude_max": 97.395561
+    },
+    {
+        "country": "Indonesia",
+        "latitude_min": -11.2085669,
+        "latitude_max": 6.2744496,
+        "longitude_min": 94.7717124,
+        "longitude_max": 141.0194444
+    },
+    {
+        "country": "Iraq",
+        "latitude_min": 29.0585661,
+        "latitude_max": 37.380932,
+        "longitude_min": 38.7936719,
+        "longitude_max": 48.8412702
+    },
+    {
+        "country": "Ireland",
+        "latitude_min": 51.222,
+        "latitude_max": 55.636,
+        "longitude_min": -11.0133788,
+        "longitude_max": -5.6582363
+    },
+    {
+        "country": "Israel",
+        "latitude_min": 29.4533796,
+        "latitude_max": 33.3356317,
+        "longitude_min": 34.2674994,
+        "longitude_max": 35.8950234
+    },
+    {
+        "country": "Italy",
+        "latitude_min": 35.2889616,
+        "latitude_max": 47.0921462,
+        "longitude_min": 6.6272658,
+        "longitude_max": 18.7844746
+    },
+    {
+        "country": "Jamaica",
+        "latitude_min": 16.5899443,
+        "latitude_max": 18.7256394,
+        "longitude_min": -78.5782366,
+        "longitude_max": -75.7541143
+    },
+    {
+        "country": "Japan",
+        "latitude_min": 20.2145811,
+        "latitude_max": 45.7112046,
+        "longitude_min": 122.7141754,
+        "longitude_max": 154.205541
+    },
+    {
+        "country": "Jordan",
+        "latitude_min": 29.183401,
+        "latitude_max": 33.3750617,
+        "longitude_min": 34.8844372,
+        "longitude_max": 39.3012981
+    },
+    {
+        "country": "Kazakhstan",
+        "latitude_min": 40.5686476,
+        "latitude_max": 55.4421701,
+        "longitude_min": 46.4932179,
+        "longitude_max": 87.3156316
+    },
+    {
+        "country": "Kenya",
+        "latitude_min": -4.8995204,
+        "latitude_max": 4.62,
+        "longitude_min": 33.9098987,
+        "longitude_max": 41.899578
+    },
+    {
+        "country": "Kiribati",
+        "latitude_min": -7.0516717,
+        "latitude_max": 7.9483283,
+        "longitude_min": -179.1645388,
+        "longitude_max": -164.1645388
+    },
+    {
+        "country": "Kuwait",
+        "latitude_min": 28.5243622,
+        "latitude_max": 30.1038082,
+        "longitude_min": 46.5526837,
+        "longitude_max": 49.0046809
+    },
+    {
+        "country": "Kyrgyzstan",
+        "latitude_min": 39.1728437,
+        "latitude_max": 43.2667971,
+        "longitude_min": 69.2649523,
+        "longitude_max": 80.2295793
+    },
+    {
+        "country": "Latvia",
+        "latitude_min": 55.6746505,
+        "latitude_max": 58.0855688,
+        "longitude_min": 20.6715407,
+        "longitude_max": 28.2414904
+    },
+    {
+        "country": "Lebanon",
+        "latitude_min": 33.0479858,
+        "latitude_max": 34.6923543,
+        "longitude_min": 34.8825667,
+        "longitude_max": 36.625
+    },
+    {
+        "country": "Lesotho",
+        "latitude_min": -30.6772773,
+        "latitude_max": -28.570615,
+        "longitude_min": 27.0114632,
+        "longitude_max": 29.4557099
+    },
+    {
+        "country": "Liberia",
+        "latitude_min": 4.1555907,
+        "latitude_max": 8.5519861,
+        "longitude_min": -11.6080764,
+        "longitude_max": -7.367323
+    },
+    {
+        "country": "Libyan Arab Jamahiriya",
+        "latitude_min": 19.5008138,
+        "latitude_max": 33.3545898,
+        "longitude_min": 9.391081,
+        "longitude_max": 25.3770629
+    },
+    {
+        "country": "Liechtenstein",
+        "latitude_min": 47.0484291,
+        "latitude_max": 47.270581,
+        "longitude_min": 9.4716736,
+        "longitude_max": 9.6357143
+    },
+    {
+        "country": "Lithuania",
+        "latitude_min": 53.8967893,
+        "latitude_max": 56.4504213,
+        "longitude_min": 20.653783,
+        "longitude_max": 26.8355198
+    },
+    {
+        "country": "Luxembourg",
+        "latitude_min": 49.4969821,
+        "latitude_max": 50.430377,
+        "longitude_min": 4.9684415,
+        "longitude_max": 6.0344254
+    },
+    {
+        "country": "Macao",
+        "latitude_min": 22.0766667,
+        "latitude_max": 22.2170361,
+        "longitude_min": 113.5281666,
+        "longitude_max": 113.6301389
+    },
+    {
+        "country": "Madagascar",
+        "latitude_min": -25.6071002,
+        "latitude_max": -11.9519693,
+        "longitude_min": 43.2202072,
+        "longitude_max": 50.4862553
+    },
+    {
+        "country": "Malawi",
+        "latitude_min": -17.1296031,
+        "latitude_max": -9.3683261,
+        "longitude_min": 32.6703616,
+        "longitude_max": 35.9185731
+    },
+    {
+        "country": "Malaysia",
+        "latitude_min": -5.1076241,
+        "latitude_max": 9.8923759,
+        "longitude_min": 105.3471939,
+        "longitude_max": 120.3471939
+    },
+    {
+        "country": "Maldives",
+        "latitude_min": -0.9074935,
+        "latitude_max": 7.3106246,
+        "longitude_min": 72.3554187,
+        "longitude_max": 73.9700962
+    },
+    {
+        "country": "Mali",
+        "latitude_min": 10.147811,
+        "latitude_max": 25.001084,
+        "longitude_min": -12.2402835,
+        "longitude_max": 4.2673828
+    },
+    {
+        "country": "Malta",
+        "latitude_min": 35.6029696,
+        "latitude_max": 36.2852706,
+        "longitude_min": 13.9324226,
+        "longitude_max": 14.8267966
+    },
+    {
+        "country": "Marshall Islands",
+        "latitude_min": -0.5481258,
+        "latitude_max": 14.4518742,
+        "longitude_min": 163.4985095,
+        "longitude_max": 178.4985095
+    },
+    {
+        "country": "Martinique",
+        "latitude_min": 14.3948596,
+        "latitude_max": 14.8787029,
+        "longitude_min": -61.2290815,
+        "longitude_max": -60.8095833
+    },
+    {
+        "country": "Mauritania",
+        "latitude_min": 14.7209909,
+        "latitude_max": 27.314942,
+        "longitude_min": -17.068081,
+        "longitude_max": -4.8333344
+    },
+    {
+        "country": "Mauritius",
+        "latitude_min": -20.725,
+        "latitude_max": -10.138,
+        "longitude_min": 56.3825151,
+        "longitude_max": 63.7151319
+    },
+    {
+        "country": "Mayotte",
+        "latitude_min": -13.0210119,
+        "latitude_max": -12.6365902,
+        "longitude_min": 45.0183298,
+        "longitude_max": 45.2999917
+    },
+    {
+        "country": "Mexico",
+        "latitude_min": 14.3886243,
+        "latitude_max": 32.7186553,
+        "longitude_min": -118.59919,
+        "longitude_max": -86.493266
+    },
+    {
+        "country": "Micronesia, Federated States of",
+        "latitude_min": 0.827,
+        "latitude_max": 10.291,
+        "longitude_min": 137.2234512,
+        "longitude_max": 163.2364054
+    },
+    {
+        "country": "Monaco",
+        "latitude_min": 43.7247599,
+        "latitude_max": 43.7519311,
+        "longitude_min": 7.4090279,
+        "longitude_max": 7.4398704
+    },
+    {
+        "country": "Mongolia",
+        "latitude_min": 41.5800276,
+        "latitude_max": 52.1496,
+        "longitude_min": 87.73762,
+        "longitude_max": 119.931949
+    },
+    {
+        "country": "Montenegro",
+        "latitude_min": 41.7495999,
+        "latitude_max": 43.5585061,
+        "longitude_min": 18.4195781,
+        "longitude_max": 20.3561641
+    },
+    {
+        "country": "Montserrat",
+        "latitude_min": 16.475,
+        "latitude_max": 17.0152978,
+        "longitude_min": -62.450667,
+        "longitude_max": -61.9353818
+    },
+    {
+        "country": "Morocco",
+        "latitude_min": 21.3365321,
+        "latitude_max": 36.0505269,
+        "longitude_min": -17.2551456,
+        "longitude_max": -0.998429
+    },
+    {
+        "country": "Mozambique",
+        "latitude_min": -26.9209427,
+        "latitude_max": -10.3252149,
+        "longitude_min": 30.2138197,
+        "longitude_max": 41.0545908
+    },
+    {
+        "country": "Myanmar",
+        "latitude_min": 9.4399432,
+        "latitude_max": 28.547835,
+        "longitude_min": 92.1719423,
+        "longitude_max": 101.1700796
+    },
+    {
+        "country": "Namibia",
+        "latitude_min": -28.96945,
+        "latitude_max": -16.9634855,
+        "longitude_min": 11.5280384,
+        "longitude_max": 25.2617671
+    },
+    {
+        "country": "Nauru",
+        "latitude_min": -0.5541334,
+        "latitude_max": -0.5025906,
+        "longitude_min": 166.9091794,
+        "longitude_max": 166.9589235
+    },
+    {
+        "country": "Nepal",
+        "latitude_min": 26.3477581,
+        "latitude_max": 30.446945,
+        "longitude_min": 80.0586226,
+        "longitude_max": 88.2015257
+    },
+    {
+        "country": "Netherlands",
+        "latitude_min": 50.7295671,
+        "latitude_max": 53.7253321,
+        "longitude_min": 1.9193492,
+        "longitude_max": 7.2274985
+    },
+    {
+        "country": "Netherlands Antilles",
+        "latitude_min": 12.1544542,
+        "latitude_max": 12.1547472,
+        "longitude_min": -68.940593,
+        "longitude_max": -68.9403518
+    },
+    {
+        "country": "New Caledonia",
+        "latitude_min": -23.2217509,
+        "latitude_max": -17.6868616,
+        "longitude_min": 162.6034343,
+        "longitude_max": 167.8109827
+    },
+    {
+        "country": "New Zealand",
+        "latitude_min": -52.8213687,
+        "latitude_max": -29.0303303,
+        "longitude_min": -179.059153,
+        "longitude_max": 179.3643594
+    },
+    {
+        "country": "Nicaragua",
+        "latitude_min": 10.7076565,
+        "latitude_max": 15.0331183,
+        "longitude_min": -87.901532,
+        "longitude_max": -82.6227023
+    },
+    {
+        "country": "Niger",
+        "latitude_min": 11.693756,
+        "latitude_max": 23.517178,
+        "longitude_min": 0.1689653,
+        "longitude_max": 15.996667
+    },
+    {
+        "country": "Nigeria",
+        "latitude_min": 4.0690959,
+        "latitude_max": 13.885645,
+        "longitude_min": 2.676932,
+        "longitude_max": 14.678014
+    },
+    {
+        "country": "Niue",
+        "latitude_min": -19.3548665,
+        "latitude_max": -18.7534559,
+        "longitude_min": -170.1595029,
+        "longitude_max": -169.5647229
+    },
+    {
+        "country": "Norfolk Island",
+        "latitude_min": -29.333,
+        "latitude_max": -28.796,
+        "longitude_min": 167.6873878,
+        "longitude_max": 168.2249543
+    },
+    {
+        "country": "Northern Mariana Islands",
+        "latitude_min": 14.036565,
+        "latitude_max": 20.616556,
+        "longitude_min": 144.813338,
+        "longitude_max": 146.154418
+    },
+    {
+        "country": "Norway",
+        "latitude_min": 57.7590052,
+        "latitude_max": 71.3848787,
+        "longitude_min": 4.0875274,
+        "longitude_max": 31.7614911
+    },
+    {
+        "country": "Oman",
+        "latitude_min": 16.4649608,
+        "latitude_max": 26.7026737,
+        "longitude_min": 52,
+        "longitude_max": 60.054577
+    },
+    {
+        "country": "Pakistan",
+        "latitude_min": 23.5393916,
+        "latitude_max": 37.084107,
+        "longitude_min": 60.872855,
+        "longitude_max": 77.1203914
+    },
+    {
+        "country": "Palau",
+        "latitude_min": 2.748,
+        "latitude_max": 8.222,
+        "longitude_min": 131.0685462,
+        "longitude_max": 134.7714735
+    },
+    {
+        "country": "Panama",
+        "latitude_min": 7.0338679,
+        "latitude_max": 9.8701757,
+        "longitude_min": -83.0517245,
+        "longitude_max": -77.1393779
+    },
+    {
+        "country": "Papua New Guinea",
+        "latitude_min": -13.1816069,
+        "latitude_max": 1.8183931,
+        "longitude_min": 136.7489081,
+        "longitude_max": 151.7489081
+    },
+    {
+        "country": "Paraguay",
+        "latitude_min": -27.6063935,
+        "latitude_max": -19.2876472,
+        "longitude_min": -62.6442036,
+        "longitude_max": -54.258
+    },
+    {
+        "country": "Peru",
+        "latitude_min": -20.1984472,
+        "latitude_max": -0.0392818,
+        "longitude_min": -84.6356535,
+        "longitude_max": -68.6519906
+    },
+    {
+        "country": "Philippines",
+        "latitude_min": 4.2158064,
+        "latitude_max": 21.3217806,
+        "longitude_min": 114.0952145,
+        "longitude_max": 126.8072562
+    },
+    {
+        "country": "Pitcairn",
+        "latitude_min": -25.1306736,
+        "latitude_max": -23.8655769,
+        "longitude_min": -130.8049862,
+        "longitude_max": -124.717534
+    },
+    {
+        "country": "Poland",
+        "latitude_min": 49.0020468,
+        "latitude_max": 55.0336963,
+        "longitude_min": 14.1229707,
+        "longitude_max": 24.145783
+    },
+    {
+        "country": "Portugal",
+        "latitude_min": 29.8288021,
+        "latitude_max": 42.1543112,
+        "longitude_min": -31.5575303,
+        "longitude_max": -6.1891593
+    },
+    {
+        "country": "Puerto Rico",
+        "latitude_min": 17.9268695,
+        "latitude_max": 18.5159789,
+        "longitude_min": -67.271492,
+        "longitude_max": -65.5897525
+    },
+    {
+        "country": "Qatar",
+        "latitude_min": 24.4707534,
+        "latitude_max": 26.3830212,
+        "longitude_min": 50.5675,
+        "longitude_max": 52.638011
+    },
+    {
+        "country": "Romania",
+        "latitude_min": 43.618682,
+        "latitude_max": 48.2653964,
+        "longitude_min": 20.2619773,
+        "longitude_max": 30.0454257
+    },
+    {
+        "country": "Russian Federation",
+        "latitude_min": 41.1850968,
+        "latitude_max": 82.0586232,
+        "longitude_min": 19.6389,
+        "longitude_max": 180
+    },
+    {
+        "country": "Rwanda",
+        "latitude_min": -2.8389804,
+        "latitude_max": -1.0474083,
+        "longitude_min": 28.8617546,
+        "longitude_max": 30.8990738
+    },
+    {
+        "country": "Saint Kitts and Nevis",
+        "latitude_min": 16.895,
+        "latitude_max": 17.6158146,
+        "longitude_min": -63.051129,
+        "longitude_max": -62.3303519
+    },
+    {
+        "country": "Saint Lucia",
+        "latitude_min": 13.508,
+        "latitude_max": 14.2725,
+        "longitude_min": -61.2853867,
+        "longitude_max": -60.6669363
+    },
+    {
+        "country": "Saint Pierre and Miquelon",
+        "latitude_min": 46.5507173,
+        "latitude_max": 47.365,
+        "longitude_min": -56.6972961,
+        "longitude_max": -55.9033333
+    },
+    {
+        "country": "Saint Vincent and the Grenadines",
+        "latitude_min": 12.5166548,
+        "latitude_max": 13.583,
+        "longitude_min": -61.6657471,
+        "longitude_max": -60.9094146
+    },
+    {
+        "country": "Samoa",
+        "latitude_min": -14.2770916,
+        "latitude_max": -13.2381892,
+        "longitude_min": -173.0091864,
+        "longitude_max": -171.1929229
+    },
+    {
+        "country": "San Marino",
+        "latitude_min": 43.8937002,
+        "latitude_max": 43.992093,
+        "longitude_min": 12.4033246,
+        "longitude_max": 12.5160665
+    },
+    {
+        "country": "Sao Tome and Principe",
+        "latitude_min": -0.2135137,
+        "latitude_max": 1.9257601,
+        "longitude_min": 6.260642,
+        "longitude_max": 7.6704783
+    },
+    {
+        "country": "Saudi Arabia",
+        "latitude_min": 16.29,
+        "latitude_max": 32.1543377,
+        "longitude_min": 34.4571718,
+        "longitude_max": 55.6666851
+    },
+    {
+        "country": "Senegal",
+        "latitude_min": 12.2372838,
+        "latitude_max": 16.6919712,
+        "longitude_min": -17.7862419,
+        "longitude_max": -11.3458996
+    },
+    {
+        "country": "Serbia",
+        "latitude_min": 42.2322435,
+        "latitude_max": 46.1900524,
+        "longitude_min": 18.8142875,
+        "longitude_max": 23.006309
+    },
+    {
+        "country": "Seychelles",
+        "latitude_min": -10.4649258,
+        "latitude_max": -3.512,
+        "longitude_min": 45.9988759,
+        "longitude_max": 56.4979396
+    },
+    {
+        "country": "Sierra Leone",
+        "latitude_min": 6.755,
+        "latitude_max": 9.999973,
+        "longitude_min": -13.5003389,
+        "longitude_max": -10.271683
+    },
+    {
+        "country": "Singapore",
+        "latitude_min": 1.1304753,
+        "latitude_max": 1.4504753,
+        "longitude_min": 103.6920359,
+        "longitude_max": 104.0120359
+    },
+    {
+        "country": "Slovakia",
+        "latitude_min": 47.7314286,
+        "latitude_max": 49.6138162,
+        "longitude_min": 16.8331891,
+        "longitude_max": 22.56571
+    },
+    {
+        "country": "Slovenia",
+        "latitude_min": 45.4214242,
+        "latitude_max": 46.8766816,
+        "longitude_min": 13.3754696,
+        "longitude_max": 16.5967702
+    },
+    {
+        "country": "Solomon Islands",
+        "latitude_min": -13.2424298,
+        "latitude_max": -4.81085,
+        "longitude_min": 155.3190556,
+        "longitude_max": 170.3964667
+    },
+    {
+        "country": "Somalia",
+        "latitude_min": -1.8031969,
+        "latitude_max": 12.1889121,
+        "longitude_min": 40.98918,
+        "longitude_max": 51.6177696
+    },
+    {
+        "country": "South Africa",
+        "latitude_min": -47.1788335,
+        "latitude_max": -22.1250301,
+        "longitude_min": 16.3335213,
+        "longitude_max": 38.2898954
+    },
+    {
+        "country": "South Georgia and the South Sandwich Islands",
+        "latitude_min": -59.684,
+        "latitude_max": -53.3500755,
+        "longitude_min": -42.354739,
+        "longitude_max": -25.8468303
+    },
+    {
+        "country": "Spain",
+        "latitude_min": 27.4335426,
+        "latitude_max": 43.9933088,
+        "longitude_min": -18.3936845,
+        "longitude_max": 4.5918885
+    },
+    {
+        "country": "Sri Lanka",
+        "latitude_min": 5.719,
+        "latitude_max": 10.035,
+        "longitude_min": 79.3959205,
+        "longitude_max": 82.0810141
+    },
+    {
+        "country": "Sudan",
+        "latitude_min": 8.685278,
+        "latitude_max": 22.224918,
+        "longitude_min": 21.8145046,
+        "longitude_max": 39.0576252
+    },
+    {
+        "country": "Suriname",
+        "latitude_min": 1.8312802,
+        "latitude_max": 6.225,
+        "longitude_min": -58.070833,
+        "longitude_max": -53.8433358
+    },
+    {
+        "country": "Svalbard and Jan Mayen",
+        "latitude_min": 70.6260825,
+        "latitude_max": 81.028076,
+        "longitude_min": -9.6848146,
+        "longitude_max": 34.6891253
+    },
+    {
+        "country": "Swaziland",
+        "latitude_min": -27.3175201,
+        "latitude_max": -25.71876,
+        "longitude_min": 30.7908,
+        "longitude_max": 32.1349923
+    },
+    {
+        "country": "Sweden",
+        "latitude_min": 55.1331192,
+        "latitude_max": 69.0599699,
+        "longitude_min": 10.5930952,
+        "longitude_max": 24.1776819
+    },
+    {
+        "country": "Switzerland",
+        "latitude_min": 45.817995,
+        "latitude_max": 47.8084648,
+        "longitude_min": 5.9559113,
+        "longitude_max": 10.4922941
+    },
+    {
+        "country": "Tajikistan",
+        "latitude_min": 36.6711153,
+        "latitude_max": 41.0450935,
+        "longitude_min": 67.3332775,
+        "longitude_max": 75.1539563
+    },
+    {
+        "country": "Thailand",
+        "latitude_min": 5.612851,
+        "latitude_max": 20.4648337,
+        "longitude_min": 97.3438072,
+        "longitude_max": 105.636812
+    },
+    {
+        "country": "Togo",
+        "latitude_min": 5.926547,
+        "latitude_max": 11.1395102,
+        "longitude_min": -0.1439746,
+        "longitude_max": 1.8087605
+    },
+    {
+        "country": "Tokelau",
+        "latitude_min": -9.6442499,
+        "latitude_max": -8.3328631,
+        "longitude_min": -172.7213673,
+        "longitude_max": -170.9797586
+    },
+    {
+        "country": "Tonga",
+        "latitude_min": -24.1034499,
+        "latitude_max": -15.3655722,
+        "longitude_min": -179.3866055,
+        "longitude_max": -173.5295458
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "latitude_min": 9.8732106,
+        "latitude_max": 11.5628372,
+        "longitude_min": -62.083056,
+        "longitude_max": -60.2895848
+    },
+    {
+        "country": "Tunisia",
+        "latitude_min": 30.230236,
+        "latitude_max": 37.7612052,
+        "longitude_min": 7.5219807,
+        "longitude_max": 11.8801133
+    },
+    {
+        "country": "Turkey",
+        "latitude_min": 35.8076804,
+        "latitude_max": 42.297,
+        "longitude_min": 25.6212891,
+        "longitude_max": 44.8176638
+    },
+    {
+        "country": "Turkmenistan",
+        "latitude_min": 35.129093,
+        "latitude_max": 42.7975571,
+        "longitude_min": 52.335076,
+        "longitude_max": 66.6895177
+    },
+    {
+        "country": "Turks and Caicos Islands",
+        "latitude_min": 20.9553418,
+        "latitude_max": 22.1630989,
+        "longitude_min": -72.6799046,
+        "longitude_max": -70.8643591
+    },
+    {
+        "country": "Tuvalu",
+        "latitude_min": -9.9939389,
+        "latitude_max": -5.4369611,
+        "longitude_min": 175.1590468,
+        "longitude_max": 178.7344938
+    },
+    {
+        "country": "Uganda",
+        "latitude_min": -1.4823179,
+        "latitude_max": 4.2340766,
+        "longitude_min": 29.573433,
+        "longitude_max": 35.000308
+    },
+    {
+        "country": "Ukraine",
+        "latitude_min": 44.184598,
+        "latitude_max": 52.3791473,
+        "longitude_min": 22.137059,
+        "longitude_max": 40.2275801
+    },
+    {
+        "country": "United Arab Emirates",
+        "latitude_min": 22.6444,
+        "latitude_max": 26.2822,
+        "longitude_min": 51.498,
+        "longitude_max": 56.3834
+    },
+    {
+        "country": "United Kingdom",
+        "latitude_min": 49.674,
+        "latitude_max": 61.061,
+        "longitude_min": -14.015517,
+        "longitude_max": 2.0919117
+    },
+    {
+        "country": "United States",
+        "latitude_min": 24.9493,
+        "latitude_max": 49.5904,
+        "longitude_min": -125.0011,
+        "longitude_max": -66.9326
+    },
+    {
+        "country": "United States Minor Outlying Islands",
+        "latitude_min": 6.1779744,
+        "latitude_max": 6.6514388,
+        "longitude_min": -162.6816297,
+        "longitude_max": -162.1339885
+    },
+    {
+        "country": "Uruguay",
+        "latitude_min": -35.7824481,
+        "latitude_max": -30.0853962,
+        "longitude_min": -58.4948438,
+        "longitude_max": -53.0755833
+    },
+    {
+        "country": "Uzbekistan",
+        "latitude_min": 37.1821164,
+        "latitude_max": 45.590118,
+        "longitude_min": 55.9977865,
+        "longitude_max": 73.1397362
+    },
+    {
+        "country": "Vanuatu",
+        "latitude_min": -20.4627425,
+        "latitude_max": -12.8713777,
+        "longitude_min": 166.3355255,
+        "longitude_max": 170.449982
+    },
+    {
+        "country": "Virgin Islands, British",
+        "latitude_min": 17.623468,
+        "latitude_max": 18.464984,
+        "longitude_min": -65.159094,
+        "longitude_max": -64.512674
+    },
+    {
+        "country": "Virgin Islands, U.S.",
+        "latitude_min": 17.623468,
+        "latitude_max": 18.464984,
+        "longitude_min": -65.159094,
+        "longitude_max": -64.512674
+    },
+    {
+        "country": "Wallis and Futuna",
+        "latitude_min": -14.5630748,
+        "latitude_max": -12.9827961,
+        "longitude_min": -178.3873749,
+        "longitude_max": -175.9190391
+    },
+    {
+        "country": "Western Sahara",
+        "latitude_min": 20.556883,
+        "latitude_max": 27.6666834,
+        "longitude_min": -17.3494721,
+        "longitude_max": -8.666389
+    },
+    {
+        "country": "Yemen",
+        "latitude_min": 11.9084802,
+        "latitude_max": 19.0,
+        "longitude_min": 41.60825,
+        "longitude_max": 54.7389375
+    },
+    {
+        "country": "Zambia",
+        "latitude_min": -18.0765945,
+        "latitude_max": -8.2712822,
+        "longitude_min": 21.9993509,
+        "longitude_max": 33.701111
+    },
+    {
+        "country": "Zimbabwe",
+        "latitude_min": -22.4241096,
+        "latitude_max": -15.6097033,
+        "longitude_min": 25.2373,
+        "longitude_max": 33.0683413
+    }
+]

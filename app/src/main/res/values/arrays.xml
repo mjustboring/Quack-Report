@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="settings_order_by_entries">
+        <item>Time</item>
+        <item>Time-Ascending</item>
+        <item>Magnitude</item>
+        <item>Magnitude-Ascending</item>
+    </string-array>
+
+    <string-array name="settings_order_by_entry_values">
+        <item>time</item>
+        <item>time_asc</item>
+        <item>magnitude</item>
+        <item>magnitude_asc</item>
+    </string-array>
+
+    <string-array name="settings_filter_by_entries">
+        <item>Date (World)</item>
+        <item>Country &amp; Date</item>
+        <item>Location, Radius &amp; Date</item>
+    </string-array>
+
+    <string-array name="settings_filter_by_entry_values">
+        <item>date</item>
+        <item>country</item>
+        <item>location</item>
+    </string-array>
+
+</resources>

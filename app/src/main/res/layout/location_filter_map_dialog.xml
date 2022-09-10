@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:animateLayoutChanges="true"
+    android:orientation="vertical">
+
+    <com.google.android.gms.maps.MapView
+        android:id="@+id/map"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:contentDescription="@string/map_text" />
+
+    <ImageView
+        android:id="@+id/location_filter_map_control_toggle"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_alignParentEnd="true"
+        android:layout_margin="12dp"
+        android:contentDescription="@null"
+        android:src="@drawable/ic_control" />
+
+    <RelativeLayout
+        android:id="@+id/location_filter_map_controls"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="48dp"
+        android:layout_marginBottom="64dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="16dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="64dp">
+
+            <RelativeLayout
+                android:id="@+id/location_filter_map_search_bar_container"
+                android:layout_width="match_parent"
+                android:layout_height="48dp">
+
+                <AutoCompleteTextView
+                    android:id="@+id/location_filter_map_search_bar"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_centerHorizontal="true"
+                    android:autofillHints="@string/search_bar_hint"
+                    android:background="@drawable/location_filter_map_search_bar_background"
+                    android:drawableLeft="@drawable/ic_search_location_filter_map_search_bar"
+                    android:drawablePadding="4dp"
+                    android:hint="@string/search_bar_hint"
+                    android:maxLines="1"
+                    android:padding="8dp"
+                    android:selectAllOnFocus="true"
+                    android:textColor="@color/gray_darker"
+                    android:textColorHint="@color/gray_light" />
+
+                <ImageView
+                    android:id="@+id/location_filter_map_reset_search_bar"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignEnd="@id/location_filter_map_search_bar"
+                    android:layout_centerVertical="true"
+                    android:layout_marginEnd="8dp"
+                    android:contentDescription="@null"
+                    android:src="@drawable/ic_cancel_location_filter_map_search_bar" />
+
+                <ProgressBar
+                    android:id="@+id/location_filter_map_search_bar_progress"
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_centerVertical="true"
+                    android:layout_margin="12dp"
+                    android:layout_toStartOf="@id/location_filter_map_reset_search_bar"
+                    android:visibility="gone" />
+
+            </RelativeLayout>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/location_filter_map_search_bar_container"
+                app:cardCornerRadius="8dp">
+
+                <ListView
+                    android:id="@+id/location_filter_map_search_bar_list"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:visibility="gone"
+                    android:paddingBottom="8dp" />
+
+            </androidx.cardview.widget.CardView>
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/seekbar_container"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/location_filter_radius_background"
+            android:orientation="horizontal"
+            android:paddingHorizontal="8dp"
+            android:paddingVertical="2dp">
+
+            <TextView
+                android:id="@+id/radius_seek_bar_value"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/gray_medium"
+                tools:text="5.99" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/radius_seek_bar_value_right"
+                android:textColor="@color/gray_medium" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/seekbar_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingTop="8dp"
+            android:paddingBottom="4dp">
+
+            <ImageView
+                android:id="@+id/seek_decrease"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="@null"
+                android:paddingVertical="16dp"
+                android:paddingStart="16dp"
+                android:src="@drawable/ic_decrement" />
+
+            <androidx.appcompat.widget.AppCompatSeekBar
+                android:id="@+id/radius_seek_bar"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:max="5000000"
+                android:min="1000"
+                android:progressBackgroundTint="@color/gray_dark"
+                tools:ignore="UnusedAttribute" />
+
+            <ImageView
+                android:id="@+id/seek_increase"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="@null"
+                android:paddingVertical="16dp"
+                android:paddingEnd="16dp"
+                android:src="@drawable/ic_increment" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/radius_seek_bar_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/seekbar_container"
+            android:layout_centerHorizontal="true"
+            android:text="@string/radius_seek_bar_title"
+            android:textColor="@color/gray_medium"
+            android:textSize="12sp" />
+
+    </RelativeLayout>
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true">
+
+        <ImageView
+            android:id="@+id/map_recenter"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_margin="16dp"
+            android:src="@drawable/ic_recenter"
+            android:contentDescription="@null" />
+
+    </FrameLayout>
+
+</RelativeLayout>

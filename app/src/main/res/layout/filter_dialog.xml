@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/country_filter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="16dp"
+        android:layout_marginTop="16dp">
+
+        <AutoCompleteTextView
+            android:id="@+id/country_filter_search_bar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:autofillHints="@string/search_bar_hint"
+            android:drawableLeft="@drawable/ic_search"
+            android:drawablePadding="4dp"
+            android:hint="@string/search_bar_hint"
+            android:textColorHint="@color/gray_light" />
+
+        <ImageView
+            android:id="@+id/country_filter_reset_search_bar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_cancel"
+            android:layout_centerVertical="true"
+            android:layout_alignEnd="@id/country_filter_search_bar"
+            android:layout_marginEnd="8dp"
+            android:contentDescription="@null" />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@null"
+            android:padding="2dp"
+            android:layout_gravity="center"
+            android:src="@drawable/ic_date_range" />
+
+        <EditText
+            android:id="@+id/country_filter_start_date"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:clickable="false"
+            android:focusableInTouchMode="false"
+            android:focusable="false"
+            android:text="31/12/2022"
+            android:textAppearance="?android:textAppearanceMedium"
+            tools:text="31/12/2022"
+            tools:ignore="Autofill,TextFields" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="@string/long_hyphen"
+            android:textAppearance="?android:textAppearanceMedium" />
+
+        <EditText
+            android:id="@+id/country_filter_end_date"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:clickable="false"
+            android:focusableInTouchMode="false"
+            android:focusable="false"
+            android:text="31/12/2022"
+            android:textAppearance="?android:textAppearanceMedium"
+            tools:text="31/12/2022"
+            tools:ignore="Autofill,TextFields" />
+
+        <ImageView
+            android:id="@+id/country_filter_reset_date_range"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/restore_settings_icon"
+            android:layout_gravity="center_vertical"
+            android:layout_marginEnd="8dp"
+            android:contentDescription="@null" />
+
+    </LinearLayout>
+
+</LinearLayout>

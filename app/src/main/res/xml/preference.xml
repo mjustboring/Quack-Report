@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="@string/settings_filter_category_title"
+        app:iconSpaceReserved="false">
+
+        <ListPreference
+            android:title="@string/settings_filter_by_title"
+            android:defaultValue="@string/settings_filter_by_default_value"
+            app:iconSpaceReserved="false"
+            android:key="@string/settings_filter_by_key"
+            android:entryValues="@array/settings_filter_by_entry_values"
+            android:entries="@array/settings_filter_by_entries" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/settings_order_and_magnitude_category_title"
+        app:iconSpaceReserved="false">
+
+        <EditTextPreference
+            android:defaultValue="@string/settings_minimum_magnitude_default_value"
+            android:title="@string/settings_minimum_magnitude_title"
+            app:iconSpaceReserved="false"
+            android:key="@string/settings_minimum_magnitude_key"
+            android:dialogLayout="@layout/edit_text_preference_minimum_magnitude_dialog" />
+
+        <ListPreference
+            android:title="@string/settings_order_by_title"
+            android:defaultValue="@string/settings_order_by_default_value"
+            app:iconSpaceReserved="false"
+            android:key="@string/settings_order_by_key"
+            android:entryValues="@array/settings_order_by_entry_values"
+            android:entries="@array/settings_order_by_entries" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/settings_category_data_fetching_limits"
+        app:iconSpaceReserved="false">
+
+        <SwitchPreferenceCompat
+            android:title="@string/settings_limit_by_item_title"
+            android:defaultValue="@string/settings_limit_by_item_default_value"
+            app:iconSpaceReserved="false"
+            android:key="@string/settings_limit_by_item_key" />
+
+        <EditTextPreference
+            android:title="@string/settings_list_fetch_limit_title"
+            android:defaultValue="@string/settings_list_fetch_limit_default_value"
+            app:iconSpaceReserved="false"
+            android:dialogLayout="@layout/edit_text_preference_list_fetch_limit_dialog"
+            android:key="@string/settings_list_fetch_limit_key" />
+
+        <EditTextPreference
+            android:title="@string/settings_list_item_limit_title"
+            android:defaultValue="@string/settings_list_item_limit_default_value"
+            app:iconSpaceReserved="false"
+            android:dialogLayout="@layout/edit_text_preference_list_item_limit_dialog"
+            android:key="@string/settings_list_item_limit_key" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/settings_timeout_category_title"
+        app:iconSpaceReserved="false">
+
+        <EditTextPreference
+            android:title="@string/settings_timeout_title"
+            app:iconSpaceReserved="false"
+            android:defaultValue="@string/settings_timeout_default_value"
+            android:dialogLayout="@layout/edit_text_preference_timeout_dialog"
+            android:key="@string/settings_timeout_key" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

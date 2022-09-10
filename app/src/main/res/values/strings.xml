@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Quake Report</string>
+
+    <string name="settings_title">Settings</string>
+
+    <string name="settings_order_by_key">orderBy</string>
+    <string name="settings_limit_by_item_key">limitByItems</string>
+    <string name="settings_list_fetch_limit_key">listFetchLimit</string>
+    <string name="settings_list_item_limit_key">listItemLimit</string>
+    <string name="settings_timeout_key">timeout</string>
+    <string name="settings_minimum_magnitude_key">minimumMagnitude</string>
+
+    <string name="settings_minimum_magnitude_title">Minimum Magnitude</string>
+    <string name="settings_order_by_title">Order By</string>
+    <string name="settings_minimum_magnitude_default_value">5</string>
+
+    <string name="settings_order_by_default_value">@string/settings_order_by_magnitude_value</string>
+
+    <string name="settings_order_by_magnitude_value">magnitude</string>
+    <string name="settings_category_data_fetching_limits">Data Fetching Limits</string>
+    <string name="settings_limit_by_item_title">Limit By Items</string>
+    <string name="settings_limit_by_item_default_value">false</string>
+    <string name="settings_list_fetch_limit_title">List Fetch Limit</string>
+    <string name="settings_list_fetch_limit_default_value">12</string>
+    <string name="settings_list_item_limit_title">List Item Limit</string>
+    <string name="settings_list_item_limit_default_value">1</string>
+    <string name="settings_timeout_category_title">Timeout</string>
+    <string name="settings_timeout_title">Time</string>
+    <string name="settings_timeout_default_value">15</string>
+
+    <string name="settings_order_and_magnitude_category_title">Order &amp; Magnitude</string>
+
+    <string name="settings_filter_category_title">Location &amp; Filtering</string>
+    <string name="settings_filter_by_title">Filter By</string>
+    <string name="settings_filter_by_key">filter</string>
+    <string name="settings_filter_by_default_value">date</string>
+
+    <string name="restore_settings">Restore Settings</string>
+    <string name="are_you_sure">Are you sure ?</string>
+    <string name="search_bar_hint">Search…</string>
+    <string name="search_title">Search</string>
+    <string name="filter_title">Filter</string>
+    <string name="maps_title">Maps</string>
+    <string name="show_all">Show All</string>
+
+    <string name="list_fetch_limit_dialog_hint">12 — 20000</string>
+    <string name="list_item_limit_dialog_hint">1 — 20000</string>
+    <string name="timeout_dialog_hint">5 — 300 (Seconds)</string>
+    <string name="minimum_magnitude_dialog_hint">0 — 10</string>
+    <string name="filter_dialog_title">Filter Earthquakes</string>
+    <string name="location_filter_map_dialog_title">Choose Location</string>
+    <string name="pick_date_range">Pick Date Range</string>
+    <string name="long_hyphen">—</string>
+    <string name="radius_seek_bar_title">Radius (1 — 20000 kms)</string>
+    <string name="map_text">Map</string>
+    <string name="country_filter_heading"><![CDATA[by Country & Date]]></string>
+    <string name="date_filter_heading">by Date (World)</string>
+    <string name="location_filter_heading"><![CDATA[by Location, Radius & Date]]></string>
+    <string name="location_filter_radius_left_text">Radius:\u0020</string>
+    <string name="location_filter_radius_right_text">\u0020Kilometers</string>
+    <string name="radius_seek_bar_value_right">\u0020kms</string>
+
+</resources>
