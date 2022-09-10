@@ -3,7 +3,7 @@ __Quack Report__ is an android app that helps to see recent or historic __earthq
 
 ## API(s) Used
 - __USGS Earthquake__ Api to fetch realtime earthquake data.
-- __Nominatim OpenStreetMap__ Api to fetch places data to implement place search box.
+- __Nominatim OpenStreetMap__ Api to fetch places data to implement place __search box__.
 - __Google Maps__ Api to show earthquake location.
 
 ## Features
