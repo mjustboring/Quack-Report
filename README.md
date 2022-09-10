@@ -1,16 +1,16 @@
 # Quack-Report
-Quack Report is an android app that helps to see recent or historic earthquakes world wide.
+__Quack Report__ is an android app that helps to see recent or historic __earthquakes__ world wide.
 
 ## API(s) Used
-- USGS Earthquake Api to fetch realtime earthquake data.
-- Nominatim OpenStreetMap Api to fetch places data to implement place search box.
-- Google Maps Api to show earthquake location.
+- __USGS Earthquake__ Api to fetch realtime earthquake data.
+- __Nominatim OpenStreetMap__ Api to fetch places data to implement place search box.
+- __Google Maps__ Api to show earthquake location.
 
 ## Features
-- Sort earthquakes by Magnitude or Date either in ascending or descending order.
-- It can filter location on the basis of country, city, date, etc.
-- Shows magnitude and location using google maps api.
-- Shows epicentre, radius and intensity of the earthquakes on map using wave animations.
+- __Sort__ earthquakes by __Magnitude__ or __Date__ either in __ascending__ or __descending__ order.
+- It can __filter__ location on the basis of __country__, __city__, __date__, etc.
+- Shows __magnitude__ and __location__ using google maps api.
+- Shows __epicentre__, __radius__ and __intensity__ of the earthquakes on map using __wave animations__.
 
 ## Demo
 - Light Theme
