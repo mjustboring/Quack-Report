@@ -8,7 +8,7 @@ Quack Report is an android app that helps to see recent or historic earthquakes 
 
 ## Features
 - Sort earthquakes by Magnitude or Date either in ascending or descending order.
-- It can filter location on basis of country, city, date, etc.
+- It can filter location on the basis of country, city, date, etc.
 - Shows magnitude and location using google maps api.
 - Shows epicentre, radius and intensity of the earthquakes on map using wave animations.
 
